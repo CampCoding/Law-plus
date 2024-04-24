@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "232901666973",
+    "project_id": "almutawaqea",
+    "storage_bucket": "almutawaqea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232901666973:android:843f2f6793586161dfcc74",
+        "android_client_info": {
+          "package_name": "com.almutawaqea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSDID1-dJJR0QQwk-uwnF2cp7ow1yrm3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232901666973:android:dab1a9a61cdecc0fdfcc74",
+        "android_client_info": {
+          "package_name": "com.almutawaqea.tu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSDID1-dJJR0QQwk-uwnF2cp7ow1yrm3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
