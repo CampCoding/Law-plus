@@ -429,7 +429,7 @@ export default class Signup extends Component {
 
     if (error === 0) {
       if (this.state.connection_Status == 'Online') {
-        // this.signup();
+        this.signup();
 
         this.setState({ confirmEmail: true });
         this.sendCodeForConfirmEmail();

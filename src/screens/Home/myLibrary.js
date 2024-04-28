@@ -27,7 +27,7 @@ export default class MyLibrary extends React.Component {
 
 
   check_in_rev() {
-    axios.get("https://camp-coding.online/law_plus/android_review_v1.php").then((res) => {
+    axios.get("https://camp-coding.online/law_plus/android_review_v2.php").then((res) => {
       if (res.status == 200) {
         // console.log(res.data + "kkkk")
         this.setState({ in_review: res.data })

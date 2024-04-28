@@ -142,8 +142,8 @@ android {
         applicationId "com.almutawaqea"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 3245733
-        versionName "2.0.7"
+        versionCode 3245735
+        versionName "2.0.8"
         multiDexEnabled true
     }
      signingConfigs {
